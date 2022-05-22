@@ -1,3 +1,6 @@
 [submodule "PWEB-back"]
 	path = PWEB-back
 	url = https://github.com/irinandrvrabie/PWEB-back.git
+[submodule "PWEB-front"]
+	path = PWEB-front
+	url = https://github.com/irinandrvrabie/PWEB-front.git
